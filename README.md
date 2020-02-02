@@ -13,3 +13,8 @@ echo coronavirus biss
 2. 软路由 + AP
 3. ps5
 4. 一个噪音不大的server
+
+* ？？？
+
+为啥学前端？
+我就是不想上夜班了而已
